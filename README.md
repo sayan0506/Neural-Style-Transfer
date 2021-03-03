@@ -8,3 +8,4 @@ Research papers
 3. **[How to inspect a pre-trained TensorFlow model](https://medium.com/@daj/how-to-inspect-a-pre-trained-tensorflow-model-5fd2ee79ced0)**
 4. **[Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/pdf/1501.00092.pdf)**
 5. **[Image Super Resolution Resources](https://github.com/titu1994/Image-Super-Resolution)**
+6. **[Visualize-CNN-Filters](https://github.com/meet-minimalist/Visualize-CNN-Filters/blob/master/Visualize%20CNN%20Layer%20Outputs%20and%20Filters.ipynb)**
