@@ -1,6 +1,8 @@
 # Neural-Style-Transfer
 Generating Neural Style Transfer and implementing the papers on that
 
+**Note: Exploration of CNN visualization will be focused on Advanced Computer Vision course now only study this,no implementation.**
+
 Research papers
 
 1. **[Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901.pdf)**
