@@ -14,3 +14,4 @@ Research papers
 7. **[Advanced Topics in Deep Convolutional Neural Networks](https://towardsdatascience.com/advanced-topics-in-deep-convolutional-neural-networks-71ef1190522d)**
 8. **[How to visualize convolutional features in 40 lines of code](https://towardsdatascience.com/how-to-visualize-convolutional-features-in-40-lines-of-code-70b7d87b0030)**
 9. **[Image Super-Resolution Using Deep Convolutional Networks](https://arxiv.org/pdf/1501.00092.pdf)**
+10. **[SRCNN implementation using Keras](https://medium.datadriveninvestor.com/using-the-super-resolution-convolutional-neural-network-for-image-restoration-ff1e8420d846)**
